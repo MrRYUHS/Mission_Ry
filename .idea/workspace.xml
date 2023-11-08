@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1209d86c-ea48-480b-968e-b14a26bc4bc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Quotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Rq.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
     </list>
@@ -49,7 +49,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/USER/Desktop/mission01",
+    "last_opened_file_path": "C:/Users/USER/Documents/IntelliJ/lion01",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -89,6 +89,7 @@
       <workItem from="1699240253082" duration="1217000" />
       <workItem from="1699243712735" duration="77000" />
       <workItem from="1699244168504" duration="9326000" />
+      <workItem from="1699418656552" duration="11240000" />
     </task>
     <servers />
   </component>
